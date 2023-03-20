@@ -1,6 +1,6 @@
 # Uber clone
 
-This is an Uber clone app built using React Native. The app is designed to replicate some of the functionality of the popular Uber app, allowing users to request rides from nearby drivers.
+This is an Uber clone app built using React Native. The app is designed to replicate some of the functionality of the popular Uber app.
 
 
 ## Table of Contents
