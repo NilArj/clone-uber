@@ -22,6 +22,7 @@ This is an Uber clone app built using React Native. The app is designed to repli
 + Firebase
 + Redux
 + Google Maps API
++ Tailwind
 
 ## Getting Started
 To run the app locally, follow these steps:
