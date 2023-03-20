@@ -31,4 +31,6 @@ To run the app locally, follow these steps:
 3. Run the app using npm start or yarn start
 
 ## Screenshots
+![uber screenshot app](https://github.com/NilArj/uber/tree/main/assets)
+
 
