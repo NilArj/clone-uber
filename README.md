@@ -18,8 +18,7 @@ This is an Uber clone app built using React Native. The app is designed to repli
 + Show travel time
 
 ## Technologies Used
-+ React
-+ Firebase
++ React Native
 + Redux
 + Google Maps API
 + Tailwind
