@@ -31,9 +31,12 @@ To run the app locally, follow these steps:
 3. Run the app using npm start or yarn start
 
 ## Screenshots
-<img src="https://github.com/NilArj/uber/blob/f619ddc9759a54274af301931d771ba6aeaedc3f/assets/Screenshot_20230319-205643.png" alt="Screenshot of the app homepage" width="200">
-<img src="https://github.com/NilArj/uber/blob/17038e1b6d476da4d4c17a1e90a416b901792ed2/assets/Screenshot_20230319-230048.png" alt="Screenshot searching a place" width="200">
-<img src="https://github.com/NilArj/uber/blob/17038e1b6d476da4d4c17a1e90a416b901792ed2/assets/Screenshot_20230319-230221.png" alt="Screenshot route marked" width="200">
+<div style="display: flex; flex-direction: row;">
+  <img  style="margin-right: 10px;" src="https://github.com/NilArj/uber/blob/f619ddc9759a54274af301931d771ba6aeaedc3f/assets/Screenshot_20230319-205643.png" alt="Screenshot of the app homepage" width="200">
+<img  style="margin-right: 10px;" src="https://github.com/NilArj/uber/blob/17038e1b6d476da4d4c17a1e90a416b901792ed2/assets/Screenshot_20230319-230048.png" alt="Screenshot searching a place" width="200">
+<img  style="margin-right: 10px;" src="https://github.com/NilArj/uber/blob/17038e1b6d476da4d4c17a1e90a416b901792ed2/assets/Screenshot_20230319-230221.png" alt="Screenshot route marked" width="200">
+</div>
+
 
 
 
